@@ -1,1 +1,1 @@
-# deep-learning-example
+# end-to-end deep-learning-concepts implementation
